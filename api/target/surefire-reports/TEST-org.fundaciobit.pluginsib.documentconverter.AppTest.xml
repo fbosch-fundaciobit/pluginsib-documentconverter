@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:\Program Files\Maven\apache-maven-3.5.3\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_171\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\fbosch\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Maven\apache-maven-3.5.3\bin;C:\Users\fbosch\AppData\Local\atom\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_171\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\PostgreSQL\pg96\bin;C:\Program Files\Java\jdk1.8.0_171\bin;C:\OpenSSL-Win64\bin;C:\Users\fbosch\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Maven\apache-maven-3.5.3\bin;C:\Users\fbosch\AppData\Local\atom\bin;C:\PostgreSQL\pg96\bin;C:\Apache24\bin;C:\win-a2enmod-master;C:\apache-tomcat-8.5.31\bin;;."/>
     <property name="maven.conf" value="C:\Program Files\Maven\apache-maven-3.5.3\bin\../conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
