@@ -1,4 +1,0 @@
-org\fundaciobit\plugins\documentconverter\ConversionDocumentException.class
-org\fundaciobit\plugins\documentconverter\OutputDocumentNotSupportedException.class
-org\fundaciobit\plugins\documentconverter\IDocumentConverterPlugin.class
-org\fundaciobit\plugins\documentconverter\InputDocumentNotSupportedException.class
